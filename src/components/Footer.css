@@ -1,0 +1,40 @@
+footer {
+  padding: 20px;
+  background-color: #1d1d1d;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.social-media-links a {
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 32px;
+  transition: color 0.3s;
+}
+
+.social-media-links a:hover {
+  opacity: 0.8;
+}
+
+.copyright-notice {
+  font-size: 14px;
+  color: #f1f1f1;
+  text-align: center;
+}
+
+.social-media-links .fab.fa-linkedin {
+  color: #0077b5;
+}
+
+.social-media-links .fab.fa-github {
+  color: rgb(51, 51, 51);
+}
+
