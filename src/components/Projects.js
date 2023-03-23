@@ -10,14 +10,14 @@ const Projects = () => {
   const projects = [
     {
       name: 'E-commerce Website',
-      description: 'Website where you can shop for products. Authentication in the backend is required and each account has his own cart and accessibilty to the website based on their role',
+      description: 'Website where you can shop for products. Authentication in the backend is required and each account has his own cart and accessibilty to the website based on their role.',
       imageUrl: Project1Image,
       githubUrl: 'https://github.com/laithhilal/e-commerce-authentication',
       techStack: 'JavaScript, React, Express, Node',
     },
     {
       name: 'MilkStore',
-      description: 'Milk store where can search for different types of milks or filter based on prefernce. Then u can click on one of the products and slide the quantity required to order',
+      description: 'Milk store where can search for different types of milks or filter based on prefernce. Then u can click on one of the products and slide the quantity required to order.',
       imageUrl: Project2Image,
       githubUrl: 'https://github.com/laithhilal/milkStore',
       techStack: 'TypeScript, React, Express, Node.',
