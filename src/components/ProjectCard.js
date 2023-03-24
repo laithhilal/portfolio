@@ -13,7 +13,7 @@ const ProjectCard = ({ project }) => {
         className='tech-stack'
         onClick={() => setTechStackVisible(!techStackVisible)}
       >
-        Tech Stack
+        TechStack
         {techStackVisible ? (
           <i className='fas fa-angle-down' style={{ marginLeft: '5px' }}></i>
         ) : (
