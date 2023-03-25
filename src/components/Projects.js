@@ -17,7 +17,7 @@ const Projects = () => {
     },
     {
       name: 'MilkStore',
-      description: 'Milk store where can search for different types of milks or filter based on prefernce. Then u can click on one of the products and slide the quantity required to order.',
+      description: 'Milk store where you can search for different types of milks or filter based on prefernce. Then u can click on one of the products and slide the quantity required to order.',
       imageUrl: Project2Image,
       githubUrl: 'https://github.com/laithhilal/milkStore',
       techStack: 'TypeScript, React, Express, Node.',
