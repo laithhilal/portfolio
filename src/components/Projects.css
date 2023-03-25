@@ -71,6 +71,11 @@
     left: 10px;
     cursor: pointer;
     color: #ff5722;
+    transition: color 0.3s;
+  }
+  
+  .tech-stack:hover {
+    color: #0070f3;
   }
   
   .tech-stack-dropdown {
