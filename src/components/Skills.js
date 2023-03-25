@@ -9,7 +9,7 @@ const Skills = () => {
       'Redux',
       'Webpack',
       'HTML',
-      'jQuery',
+      'NextJS',
       'CSS/SASS/styled-components',
     ],
     Backend: [
