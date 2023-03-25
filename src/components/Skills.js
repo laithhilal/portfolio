@@ -17,7 +17,8 @@ const Skills = () => {
       'ExpressJS',
       'REST', 
       'GraphQL', 
-      'MongoDB/PostgreSQL'
+      'MongoDB',
+      'PostgreSQL',
     ],
     Tools: [
       'Visual Studio Code',
